@@ -16,7 +16,7 @@
 
 </p>
 
-<h2 align="center">current projects</h2>
+
 (Servers)
 - [Slum City Roleplay](https://discord.gg/slumcityroleplay) *(FiveM Semi-RP server)*
 
