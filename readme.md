@@ -23,7 +23,7 @@
 
 <h2 align="center">current projects</h2>
 
-- [Slum City Roleplay](https://discord.gg/slumcityroleplay) *(FiveM CMG Inspired Server)*
+- [Gang Land🔥 Roleplay](https://discord.gg/slumcityroleplay) *(FiveM CMG Inspired Server)*
  
 <h2 align="center"></h2>
 
