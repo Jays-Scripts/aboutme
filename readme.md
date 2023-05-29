@@ -24,7 +24,7 @@
 <h2 align="center">current projects</h2>
 
 - [The Revival Public #1](https://discord.io/therevival) **(FiveM CMG Inspired Server)**
-- 
+
  <h2 align="center">past projects</h2>
  
 - [Gang Land Roleplay]() **(FiveM QB-Core Server (Semi-Serious RP)**
