@@ -23,7 +23,7 @@
 
 <h2 align="center">current projects</h2>
 
-- [The Revival Public #1](https://discord.gg/slumcityroleplay) *(FiveM CMG Inspired Server)*
+- [The Revival Public #1](https://discord.io/therevival) **(FiveM CMG Inspired Server)**
  
 <h2 align="center"></h2>
 
