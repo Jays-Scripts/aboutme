@@ -29,7 +29,7 @@
  
 - [Gang Land Roleplay]() **(FiveM QB-Core Server (Semi-Serious RP)**
 - [Slum City Roleplay]() **(FiveM QB-Core Server (Serious RP)**
- - **Explanation**
+  **Explanation** -
  Got bored of RP and wanted to get fraggy pretty much
 <h2 align="center"></h2>
 
